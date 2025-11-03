@@ -227,7 +227,6 @@ This tool directly addresses a real pain point in mortgage document processing:
 
 ## 👨‍💻 Development Approach
 
-Built with Value AI Labs' "banal is beautiful" philosophy:
 - Focus on solving a specific, real-world problem exceptionally well
 - Clean, maintainable code with proper error handling
 - Professional UI that feels like a mini-product
@@ -242,7 +241,5 @@ For questions or issues:
 - Verify PDF file is not corrupted or encrypted
 - Test with the provided sample file first
 
----
 
-**Built for Value AI Labs Take-Home Assignment**  
-*Demonstrating AI integration, full-stack development, and product thinking*
+
